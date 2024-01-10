@@ -1,4 +1,4 @@
-// File: C:\Users\Tuff\Desktop\React_Nextjs_Tailwind_app_DoOver\special-pancake\src\app\menu\page.tsx
+// File: C:\Users\Tuff\Desktop\React_Nextjs_Tailwind_app_DoOver\special-pancake-2\src\app\menu\page.tsx
 import * as entry from '../../../../src/app/menu/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
